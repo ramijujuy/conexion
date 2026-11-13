@@ -1,0 +1,6 @@
+{
+  "name": "Cercanías - Radar de Citas & Conexión Anónima",
+  "description": "Aplicación de citas con radar interactivo de proximidad, fotos en vivo verificadas de rostro para match, filtros físicos y de distancia, chat público y privado, e invisibilidad mutua para participantes ignorados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
